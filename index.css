@@ -1,4 +1,4 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
 }
@@ -66,9 +66,9 @@ body {
 
 .hide {
   display: none;
-}
+} */
 
-/* * {
+* {
   margin: 0;
   padding: 0;
   text-align: center;
@@ -135,4 +135,4 @@ img {
   display: inline;
   padding: 1rem;
   border-radius: 1rem;
-} */
+}
